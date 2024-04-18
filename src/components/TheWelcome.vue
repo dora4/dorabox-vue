@@ -77,6 +77,10 @@ import SupportIcon from './icons/IconSupport.vue'
             MD5:524d28f244a68f7b1f938525e01951ea
          </p>
 
+             <p>
+                 <a href="https://dorachat.oss-cn-hongkong.aliyuncs.com/Dora_Box_1.9.apk">Dora Box v1.9</a>
+                 MD5:4bd2f2d044fd4f437eec87b8d65a3f9b
+              </p>
         </h6>
     <br />
   </WelcomeItem>
