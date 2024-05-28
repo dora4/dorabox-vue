@@ -107,6 +107,18 @@ Privacy is a basic right that everyone should be respected and protected. Howeve
 
   <WelcomeItem>
     <template #icon>
+      <ToolingIcon />
+    </template>
+    <template #heading>Crypto Tools</template>
+An offline encryption and decryption tool that does not require an Internet connection, it can be used as the underlying encryption of sensitive information in Dora Box.
+     <p>
+    <a href="https://www.pgyer.com/cryptotools">Details</a>
+     </p>
+
+
+  </WelcomeItem>
+  <WelcomeItem>
+    <template #icon>
       <SupportIcon />
     </template>
     <template #heading>Contact Us</template>
