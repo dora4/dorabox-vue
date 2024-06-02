@@ -38,7 +38,7 @@ Privacy is a basic right that everyone should be respected and protected. Howeve
      <p>Package Name : com.dorachat.privacybox</p>
      <p>
         <a href="https://dorachat.oss-cn-hongkong.aliyuncs.com/Dora_Box_1.12.apk">Dora Box v1.12</a>
-        MD5:7bf91a837d04e2b94ab8965d187f08ff
+        MD5:b8b2204fdc8912612b247e5147347796
      </p>
     <br />
   </WelcomeItem>
