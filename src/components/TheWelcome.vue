@@ -40,6 +40,11 @@ Privacy is a basic right that everyone should be respected and protected. Howeve
         <a href="https://dorachat.oss-cn-hongkong.aliyuncs.com/Dora_Box_1.12.apk">Dora Box v1.12</a>
         MD5:b8b2204fdc8912612b247e5147347796
      </p>
+     <p>
+        <a href="https://dorachat.oss-cn-hongkong.aliyuncs.com/Dora_Box_2.0.apk">Dora Box v2.0</a>
+        MD5:db83cf4f04df5f687ac4415bd1da4051
+     </p>
+
     <br />
   </WelcomeItem>
 
@@ -68,9 +73,11 @@ An offline encryption and decryption tool that does not require an Internet conn
     <a href="https://www.facebook.com/profile.php?id=61551819646749">Facebook</a>
      </p>
      <p>
+    <a href="https://www.tiktok.com/@doracrypto.com">Tiktok</a>
+     </p>
+     <p>
     <a href="https://www.youtube.com/channel/UCtlq1G4CwMu7RXXNq-w9ZhA">Youtube</a>
      </p>
-
 
   </WelcomeItem>
 </template>
